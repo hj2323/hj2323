@@ -6,7 +6,7 @@ hj2323/hj2323 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👀 I’m interested in Salesforce Skills and other Computer Languages(python, Android etc.)<br>
+- 👀 I’m interested in Salesforce Skills and Data Analysis(python, R etc.)<br>
 - 📫 How to reach me ...hjchoi2323@gmail.com
 <p>
   <em>
