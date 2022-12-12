@@ -46,6 +46,9 @@ You can click the Preview link to take a look at your changes.
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
+  ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
   ![Apex](https://img.shields.io/badge/-Apex-2F8D46?style=flat-square&logo=salesforce&logoColor=ffffff)
   ![LWC](https://img.shields.io/badge/-LWC-yellowgreen?style=flat-square&logo=salesforce&logoColor=ffffff)
   ![Aura](https://img.shields.io/badge/-Aura-blueviolet?style=flat-square&logo=salesforce&logoColor=ffffff)
@@ -61,6 +64,6 @@ You can click the Preview link to take a look at your changes.
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)
  ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=ffffff)
  ![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-F37626?style=flat-square&logo=Jupyter&logoColor=ffffff)
-  
-
-
+   ![Android Studio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=ffffff)
+  ![MySQL](https://img.shields.io/badge/-MySQLWorkbench-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
+  ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=ffffff)
