@@ -5,9 +5,10 @@
 hj2323/hj2323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+[![hj's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj2323)](https://github.com/hj2323/github-readme-stats)
 - 👀 I’m interested in Salesforce Skills and Data Analysis(python, R etc.)<br>
 - 📫 How to reach me ...hjchoi2323@gmail.com
+ 
 <p>
   <em>
     <h3>
@@ -26,6 +27,8 @@ You can click the Preview link to take a look at your changes.
  
     
   </em>
+    
+  
    <em>
     <h4>
      trailhead enthusiastic
@@ -50,5 +53,5 @@ You can click the Preview link to take a look at your changes.
   ![Flow](https://img.shields.io/badge/-Flow-00A1E0?style=flat-square&logo=salesforce&logoColor=ffffff)
   
   
-  
-  [![hj's GitHub stats](https://github-readme-stats.vercel.app/api?username=hj2323)](https://github.com/hj2323/github-readme-stats)
+
+
