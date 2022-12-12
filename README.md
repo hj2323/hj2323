@@ -51,7 +51,13 @@ You can click the Preview link to take a look at your changes.
   ![Aura](https://img.shields.io/badge/-Aura-blueviolet?style=flat-square&logo=salesforce&logoColor=ffffff)
   ![Lightning Experience](https://img.shields.io/badge/-LightningExperience-00A1E0?style=flat-square&logo=salesforce&logoColor=ffffff)
   ![Flow](https://img.shields.io/badge/-Flow-00A1E0?style=flat-square&logo=salesforce&logoColor=ffffff)
+ 
   
+  <h2> My tech tool 🧰</h2>
+
+  ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=ffffff)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=IntelliJIDEA&logoColor=ffffff)
+ ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=ffffff)
   
 
 
