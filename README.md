@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   </em>
   <em>
     <h4>
-     5 x Certified Salesforce Professional
+    📜 5 x Certified Salesforce Professional 
     </h4>
     <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu5&oid=00DF0000000gZsu&lastMod=1617267801000" width="120px">
      <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mu1&oid=00DF0000000gZsu&lastMod=1617267944000" width="120px">
@@ -31,10 +31,10 @@ You can click the Preview link to take a look at your changes.
   
    <em>
     <h4>
-     trailhead enthusiastic
+     💡 trailhead enthusiastic 
     </h4>
      <h6>
-       180+ badges & 100,000+ points
+      4 x SuperBadges, 180+ badges & 100,000+ points
      </h6>
      <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
   </em>
