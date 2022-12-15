@@ -48,12 +48,12 @@ You can click the Preview link to take a look at your changes.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
   ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)<br>
   ![Apex](https://img.shields.io/badge/-Apex-2F8D46?style=flat-square&logo=salesforce&logoColor=ffffff)
   ![LWC](https://img.shields.io/badge/-LWC-yellowgreen?style=flat-square&logo=salesforce&logoColor=ffffff)
   ![Aura](https://img.shields.io/badge/-Aura-blueviolet?style=flat-square&logo=salesforce&logoColor=ffffff)
   ![Lightning Experience](https://img.shields.io/badge/-LightningExperience-00A1E0?style=flat-square&logo=salesforce&logoColor=ffffff)
-  ![Flow](https://img.shields.io/badge/-Flow-00A1E0?style=flat-square&logo=salesforce&logoColor=ffffff)
+  ![Flow](https://img.shields.io/badge/-Flow-00A1E0?style=flat-square&logo=salesforce&logoColor=ffffff)<br>
   ![python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
   ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=ffffff)
  
