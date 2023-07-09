@@ -34,9 +34,9 @@ You can click the Preview link to take a look at your changes.
      💡 trailhead enthusiastic 
     </h4>
      <h6>
-      4 x SuperBadges, 180+ badges & 100,000+ points
+      4 x SuperBadges, 200+ badges & 120,000+ points
      </h6>
-     <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
+     <img src="res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
   </em>
   
   
