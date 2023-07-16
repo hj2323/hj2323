@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
      <h6>
       4 x SuperBadges, 200+ badges & 120,000+ points
      </h6>
-     <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/ranger.png">
+     <img src="https://res.cloudinary.com/trailhead/image/upload/public-trailhead/assets/images/ranks/double-star-ranger.png">
   </em>
   
   
